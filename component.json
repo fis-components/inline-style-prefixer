@@ -1,9 +1,0 @@
-{
-    "repos": "https://github.com/rofrischmann/inline-style-prefixer.git",
-    "version": "0.5.3",
-    "name": "inline-style-prefixer",
-    "main": "lib/Prefixer.js",
-    "dependencies": {
-        "bowser": "^1.0.0"
-    }
-}
