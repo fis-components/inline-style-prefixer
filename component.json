@@ -1,0 +1,15 @@
+{
+    "name": "inline-style-prefixer",
+    "description": "Autoprefixer for inline styles using userAgent and caniuse data",
+    "repos": "https://github.com/rofrischmann/inline-style-prefixer.git",
+    "main": "prefixer.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "bowser": "^1.0.0"
+    },
+    "version": "0.6.2",
+    "paths": {
+        "dist": "."
+    }
+}
